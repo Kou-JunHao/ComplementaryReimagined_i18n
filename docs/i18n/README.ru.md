@@ -2,9 +2,11 @@
 
 [![Лицензия](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
 
-<p align="center">
+<div align="center">
+
 🌐 [English](../../README.md) | [中文](README.zh.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Русский](#)
-</p>
+
+</div>
 
 Этот проект предоставляет многоязычную поддержку для шейдер-пака ComplementaryReimagined.
 

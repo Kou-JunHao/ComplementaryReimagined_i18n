@@ -2,9 +2,11 @@
 
 [![Licencia](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
 
-<p align="center">
+<div align="center">
+
 🌐 [English](../../README.md) | [简体中文](README.zh.md) | [Español](#) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
-</p>
+
+</div>
 
 Este proyecto proporciona soporte multilingüe para el paquete de shaders ComplementaryReimagined.
 
