@@ -1,14 +1,24 @@
-# ComplementaryReimagined_i18n
-Agregar soporte i18n para Complementary Reimagined
+# Proyecto de Localización ComplementaryReimagined
 
-## Cambiar idioma
-[English](../../README.md) | [中文](README.zh.md) | [Español](#) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+Este proyecto proporciona soporte multilingüe para el paquete de shaders ComplementaryReimagined.  
+🌐 [English](../../README.md) | [中文](README.zh.md) | [Español](#) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
 
-## Cómo usar
+## ✨ Características
+- Soporte para 7 idiomas
+- Proceso de instalación sencillo
+- Actualizaciones periódicas con nuevas traducciones
+
+## 📦 Instalación
 1. Descarga el archivo .lang para tu idioma
 2. Descomprime el paquete de shaders ComplementaryReimagined
 3. Coloca el archivo .lang en la carpeta `shaders/lang`
 4. Vuelve a comprimir el paquete de shaders
-5. Coloca el paquete actualizado de vuelta en la carpeta `shaderpacks`
+5. Coloca el paquete actualizado en la carpeta `shaderpacks`
 
-[Volver a selección de idioma](../../README.md)
+## 🤝 Contribuciones
+¡Aceptamos traducciones para más idiomas!  
+Consulta nuestra [Guía de Contribución](CONTRIBUTING.es.md) para más detalles.
+
+---
+
+*Nota: Asegúrate de hacer una copia de seguridad del paquete de shaders antes de modificarlo.*
