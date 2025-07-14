@@ -1,5 +1,7 @@
 # ComplementaryReimagined ローカライゼーションプロジェクト
 
+[![ライセンス](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
+
 このプロジェクトはComplementaryReimaginedシェーダーパックの多言語サポートを提供します。  
 🌐 [English](../../README.md) | [中文](README.zh.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](#) | [Русский](README.ru.md)
 

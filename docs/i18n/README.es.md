@@ -1,7 +1,9 @@
 # Proyecto de Localización ComplementaryReimagined
 
+[![Licencia](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
+
 Este proyecto proporciona soporte multilingüe para el paquete de shaders ComplementaryReimagined.  
-🌐 [English](../../README.md) | [中文](README.zh.md) | [Español](#) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+🌐 [English](../../README.md) | [简体中文](README.zh.md) | [Español](#) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
 
 ## ✨ Características
 - Soporte para 7 idiomas
