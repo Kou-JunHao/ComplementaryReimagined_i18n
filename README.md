@@ -1,30 +1,28 @@
-<!-- Language Selector -->
-[English](#english) | [中文](#chinese) | [Español](#spanish) | [Français](#french) | [Deutsch](#german) | [日本語](#japanese) | [Русский](#russian)
+# ComplementaryReimagined Localization Project
 
-<a id="english"></a>
-# ComplementaryReimagined_i18n
-Add i18n support for Complementary Reimagined
+This project provides multi-language support for ComplementaryReimagined shader pack through .lang files.
 
-<a id="chinese"></a>
-# ComplementaryReimagined_i18n
-为Complementary Reimagined添加多语言支持
+## Features
+- Support for 7 languages
+- Easy to install and use
+- Regular updates with new translations
 
-<a id="spanish"></a>
-# ComplementaryReimagined_i18n
-Agregar soporte i18n para Complementary Reimagined
+## Language Support
+Select your preferred language:
 
-<a id="french"></a>
-# ComplementaryReimagined_i18n
-Ajouter la prise en charge i18n pour Complementary Reimagined
+- [中文 (Chinese)](docs/i18n/README.zh.md)
+- [Español (Spanish)](docs/i18n/README.es.md)  
+- [Français (French)](docs/i18n/README.fr.md)
+- [Deutsch (German)](docs/i18n/README.de.md)
+- [日本語 (Japanese)](docs/i18n/README.ja.md)
+- [Русский (Russian)](docs/i18n/README.ru.md)
 
-<a id="german"></a>
-# ComplementaryReimagined_i18n
-i18n-Unterstützung für Complementary Reimagined hinzufügen
+## How to Use
+1. Download the .lang file for your language
+2. Unzip your ComplementaryReimagined shaderpack
+3. Place the .lang file in the `shaders/lang` folder
+4. Re-zip the shaderpack
+5. Put the updated zip back into your `shaderpacks` folder
 
-<a id="japanese"></a>
-# ComplementaryReimagined_i18n
-Complementary Reimaginedにi18nサポートを追加
-
-<a id="russian"></a>
-# ComplementaryReimagined_i18n
-Добавить поддержку i18n для Complementary Reimagined
+## Contributing
+We welcome translations for more languages! See our [Contribution Guide](docs/CONTRIBUTING.md).

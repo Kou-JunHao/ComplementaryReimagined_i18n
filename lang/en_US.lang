@@ -1,0 +1,8 @@
+# English Translations for ComplementaryReimagined
+# Format: key=value
+
+shader.option.ambientOcclusion=Ambient Occlusion
+shader.option.dynamicHandLight=Dynamic Hand Light
+shader.option.waterReflections=Water Reflections
+shader.option.volumetricLight=Volumetric Light
+shader.option.dynamicShadows=Dynamic Shadows
