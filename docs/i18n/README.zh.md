@@ -2,8 +2,11 @@
 
 [![许可证](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
 
-本项目为ComplementaryReimagined光影包提供多语言支持。  
+<p align="center">
 🌐 [English](../../README.md) | [简体中文](#) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+</p>
+
+本项目为ComplementaryReimagined光影包提供多语言支持。
 
 ## ✨ 功能特点
 - 支持7种语言

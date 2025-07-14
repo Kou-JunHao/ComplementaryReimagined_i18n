@@ -2,8 +2,11 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-This project provides multi-language support for ComplementaryReimagined shader pack through .lang files.  
+<p align="center">
 🌐 [English](#) | [简体中文](docs/i18n/README.zh.md) | [Español](docs/i18n/README.es.md) | [Français](docs/i18n/README.fr.md) | [Deutsch](docs/i18n/README.de.md) | [日本語](docs/i18n/README.ja.md) | [Русский](docs/i18n/README.ru.md)
+</p>
+
+This project provides multi-language support for ComplementaryReimagined shader pack through .lang files.
 
 ## ✨ Features
 - Support for 7 languages

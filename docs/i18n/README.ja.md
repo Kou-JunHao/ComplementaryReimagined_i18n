@@ -2,8 +2,11 @@
 
 [![ライセンス](https://img.shields.io/badge/License-MIT-blue.svg)](../../LICENSE)
 
-このプロジェクトはComplementaryReimaginedシェーダーパックの多言語サポートを提供します。  
+<p align="center">
 🌐 [English](../../README.md) | [中文](README.zh.md) | [Español](README.es.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](#) | [Русский](README.ru.md)
+</p>
+
+このプロジェクトはComplementaryReimaginedシェーダーパックの多言語サポートを提供します。
 
 ## ✨ 特徴
 - 7言語のサポート
